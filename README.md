@@ -2,7 +2,7 @@
 
 ✨Welcome to my Github profile✨
 
-Hi I'm Okan and I’m Php Developer
+Full Stack Developer
 
 My skills:
 
