@@ -1,58 +1,74 @@
-# 👋 Hello, I'm Okan Taştan!
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/header-light.svg">
+  <img alt="Okan Taştan, Full Stack Developer, e-ticaret yazılımları, Bodrum" src="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/header-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<a href="https://okantastan.com"><img alt="okantastan.com" src="https://img.shields.io/badge/okantastan.com-17130F?style=flat-square&logo=wordpress&logoColor=FFC53D"></a>
+<a href="https://www.linkedin.com/in/okantastan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17130F?style=flat-square&logo=linkedin&logoColor=FFC53D"></a>
+<a href="https://www.youtube.com/@okantastann"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-17130F?style=flat-square&logo=youtube&logoColor=FFC53D"></a>
+<a href="https://www.instagram.com/okantastan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-17130F?style=flat-square&logo=instagram&logoColor=FFC53D"></a>
+<a href="https://twitter.com/okantastann"><img alt="X" src="https://img.shields.io/badge/X-17130F?style=flat-square&logo=x&logoColor=FFC53D"></a>
+
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/okantastan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/okantastann" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=okantastan&style=flat-square&color=blue" alt="Profile Views Counter"/>
-</div>
+Merhaba, ben Okan. Bodrum'da yaşayan bir full stack geliştiriciyim. 2022'den beri profesyonel olarak yazılım geliştiriyorum, öncesinde freelance e-ticaret projeleri yaptım.
 
----
+İşimin merkezinde e-ticaret var. Bir ürünün kataloğa girmesinden kargoya verilmesine kadar geçen her adımın yazılım tarafıyla uğraşıyorum: ödeme altyapıları, kargo entegrasyonları, çok satıcılı pazaryerleri ve WooCommerce mağazaları.
 
-### 👨‍💻 About Me:
+## Bir siparişin yolculuğu
 
-I'm a Full Stack Developer passionate about building web applications.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/flow-light.svg">
+  <img alt="Sipariş akışı: katalog ve stok, ödeme, pazaryeri, kargo, reklam ve ölçüm" src="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/flow-dark.svg" width="100%">
+</picture>
 
-- 🔭 I'm currently working on various web projects
-- 🌱 I'm continuously learning new technologies
-- 👯 I enjoy collaborating with others
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-okantastan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/okantastan)
-- 📝 My blog: [okantastan.com](https://okantastan.com)
+## E-ticarette neler biliyorum
 
----
+| Alan | Deneyim |
+| --- | --- |
+| **Sanal POS** | iyzico, PayTR ve Param entegrasyonları, iyzico abonelik API'si, TL/USD kur dönüşümü |
+| **Pazaryeri (C2C)** | Çok satıcılı yapı, satıcı panelleri, komisyon, iyzico ve PayTR alt üye işyeri akışları |
+| **Ürün tipleri** | Fiziksel ürün, dijital ürün, ilan ve fiyat teklifi modülleri |
+| **Kargo** | Yurtiçi, Aras, DHL ve Sürat Kargo entegrasyonları |
+| **WooCommerce** | Mağaza kurulumu, Dokan, çoklu para birimi, çoklu dil, ürün varyasyonları |
+| **Ürün akışı** | XML ve pazaryeri entegrasyonları, Google Merchant Center |
+| **Ölçüm** | Google Ads dönüşüm takibi, çerez onayına bağlı etiketler, Meta Piksel |
+| **Mimari** | Laravel ile çok kiracılı yapı: tek kod tabanı, müşteri başına ayrı veritabanı, Next.js ve WPGraphQL ile headless WordPress |
+| **Bakım** | WordPress hız ve güvenlik, hosting taşıma, PHP ve Laravel sürüm yükseltme |
+| **Yayın** | GitHub Actions ile otomatik deploy, cPanel ve DirectAdmin sunucuları, n8n otomasyonları |
 
-### 🛠️ Languages and Tools:
+## Kullandığım teknolojiler
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Php" alt="Php" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/stack-light.svg">
+  <img alt="PHP, Laravel, CodeIgniter, WordPress, WooCommerce, MySQL, React, Next.js, GraphQL, Node.js, JavaScript, GitHub Actions" src="https://raw.githubusercontent.com/okantastan/okantastan/master/assets/stack-dark.svg" width="100%">
+</picture>
 
----
+## Örnek işler
 
-### 📊 My GitHub Stats:
+- **[3dstock.org](https://3dstock.org):** 3D model pazaryeri. CodeIgniter 4 üzerine iyzico ile abonelik ve ödeme altyapısı.
+- **[iyzico-codeigniter](https://github.com/okantastan/iyzico-codeigniter):** CodeIgniter için açık kaynak iyzico entegrasyonu.
+- **[YouTube kanalım](https://www.youtube.com/@okantastann):** WooCommerce, Dokan ve iyzico üzerine Türkçe, uygulamalı videolar.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okantastan&show_icons=true&theme=tokyonight)
+## İletişim
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okantastan&layout=compact&theme=tokyonight)
+Freelance e-ticaret işleri için [okantastan.com](https://okantastan.com) ya da [LinkedIn](https://www.linkedin.com/in/okantastan) üzerinden yazabilirsiniz.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=okantastan&theme=tokyonight)
+<details>
+<summary><b>English</b></summary>
+<br>
 
----
+I'm Okan, a full stack developer based in Bodrum, Türkiye. I have been working as a software developer since 2022, and I did freelance e-commerce projects before that.
+
+My work is focused on e-commerce software: virtual POS integrations (iyzico, PayTR, Param), shipping integrations (Yurtiçi, Aras, DHL, Sürat), multi-vendor marketplaces with sub-merchant payments and commissions, and WooCommerce stores. I build with PHP, Laravel, CodeIgniter, WordPress, React and Next.js, and I deploy with GitHub Actions.
+
+</details>
