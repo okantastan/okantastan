@@ -18,7 +18,7 @@
 
 <br>
 
-Merhaba, ben Okan. Bodrum'da yaşayan bir full stack geliştiriciyim. 2022'den beri profesyonel olarak yazılım geliştiriyorum, öncesinde freelance e-ticaret projeleri yaptım.
+Merhaba, ben Okan. Bodrum'da yaşayan bir full stack geliştiriciyim. 2012'den beri profesyonel olarak yazılım geliştiriyorum, freelance e-ticaret projeleri yapıyorum.
 
 İşimin merkezinde e-ticaret var. Bir ürünün kataloğa girmesinden kargoya verilmesine kadar geçen her adımın yazılım tarafıyla uğraşıyorum: ödeme altyapıları, kargo entegrasyonları, çok satıcılı pazaryerleri ve WooCommerce mağazaları.
 
